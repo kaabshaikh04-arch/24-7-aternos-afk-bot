@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "SoloCloudHosting",
+    "username": "SUBTOGAMERXMUS",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "SURVIVALS1SMP.aternos.me",
-    "port": 51607,
+    "ip": "survivalsmps1.tkmc.net",
+    "port": 50310,
     "version": "1.20.1",
     "try-creative": false
   },
