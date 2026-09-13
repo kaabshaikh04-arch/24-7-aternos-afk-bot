@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "survivalsmps1.tkmc.net",
-    "port": 50310,
+    "ip": "mc2163081.fmcs.cloud",
+    "port": 33087,
     "version": "1.20.1",
     "try-creative": false
   },
