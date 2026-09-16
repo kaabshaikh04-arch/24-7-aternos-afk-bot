@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "survivals1smp.play.hosting",
-    "port": 25730,
+    "ip": "SURVIVALS1SMP.aternos.me",
+    "port": 51607,
     "version": "1.20.1",
     "try-creative": false
   },
