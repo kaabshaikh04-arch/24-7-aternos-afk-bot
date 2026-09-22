@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "SURVIVALS1SMP.aternos.me",
-    "port": 51607,
+    "ip": "survivalsmpsea1.minefort.com",
+    "port": 25565,
     "version": "1.20.1",
     "try-creative": false
   },
