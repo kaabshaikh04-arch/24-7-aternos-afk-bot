@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "MINECRAFT_SURVI-sPkC.aternos.me",
-    "port": 59940,
+    "ip": "SURVIVALS1SMP.aternos.me",
+    "port": 51607,
     "version": "1.20.1",
     "try-creative": false
   },
